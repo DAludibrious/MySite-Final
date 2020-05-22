@@ -1,0 +1,59 @@
+baseurl         = "https://example.dustinallen.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Dustin Allen"
+  subtitle    = "My Site"
+
+  cover       = "images/abst.jpg"
+  description = "A site about Dustin Allen"
+  metaDescrieption = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  linkedinName = "dustin-allen/"
+  githubName = "DAludibrious"
+
+  logo = ""
+  orgName = "DJA 2020"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Technology Proffesional"
+
+  author = "Dustin Allen"
+  authorAvatar = "images/profile.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "IT Auditor"
+
+  pageNotFoundTitle = "Something is broken"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/tags/about/"
+  weight = 100
+
+[[menu.main]]
+  name = "Career"
+  url = "/categories/career/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
