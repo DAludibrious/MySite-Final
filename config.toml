@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Dustin Allen"
-  subtitle    = "My Site"
+  subtitle    = ""
 
   cover       = "images/abst.jpg"
   description = "A site about Dustin Allen"
@@ -20,17 +20,17 @@ paginate        = 6
   githubName = "DAludibrious"
 
   logo = ""
-  orgName = "DJA 2020"
-  orgWebsite = "https://www.telematika.org"
+  orgName = "DA 2020"
+  orgWebsite = ""
   orgDescription = "Technology Proffesional"
 
   author = "Dustin Allen"
   authorAvatar = "images/profile.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
+  authorLocation = "Pittsburgh, PA"
+  authorWebsite = ""
   authorDescription = "IT Auditor"
 
-  pageNotFoundTitle = "Something is broken"
+  pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
   singleViewStyle = "casper"
