@@ -3,7 +3,7 @@ title: "About"
 date: 2020-05-16T12:46:23-04:00
 draft: false
 image: "images/river.jpg" 
-tags: ["about"]
+tags: ["About"]
 
 ---
 
