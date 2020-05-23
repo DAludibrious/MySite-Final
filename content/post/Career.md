@@ -39,6 +39,7 @@ num2 = 2
 print(num1 * num2)
 ```  -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/1vq_h4myH1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+I like what I do.
 
 I started my career in technology as a United States Marine. More specifically, my expertise is in telecommunications and information security. After ending active service I completed a Master of Science in Information Technology. At the same time, I worked as a technical support engineer for Honeywell Intelligrated. The technology I worked with was software and hardware designed for voice enabled distribution center automation. I gained valuable experience in enterprise application support and furthered my understanding of wireless devices. 
 
