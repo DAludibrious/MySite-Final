@@ -5,6 +5,15 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 
+[params.font]
+    # Some example fonts: Domine, Raleway, "Gentium Basic", Lato
+
+    body = "Lato"
+    heading = "Raleway"
+    blockquote = "Gentium Basic"
+    nav = "Domine"
+    paragraph = "Roboto"
+
 [params]
 
 
