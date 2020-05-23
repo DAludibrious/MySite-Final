@@ -1,4 +1,4 @@
-baseurl         = "dustinallen.org"
+baseurl         = "www.dustinallen.org"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
