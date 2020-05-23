@@ -3,7 +3,7 @@ title: "Education"
 date: 2020-05-23T13:21:44-04:00
 draft: false
 Image: "images/new.jpg"
-categories: [Education]
+# categories: [Education]
 ---
      
 H2 TEST
