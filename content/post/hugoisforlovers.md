@@ -1,5 +1,5 @@
 +++
-title = "Getting Started with Hugo"
+title = "You Can Do it All by Yourself"
 description = ""
 tags = [
     "go",
@@ -13,8 +13,12 @@ categories = [
     "golang",
 ]
 nomenu = "main"
-image= "img/tags.jpg"
+image= "images/web.jpg"
 +++
+
+This website was created with Hugo. I followed the instructions below to learn Hugo and then started to branch into other areas.
+
+The below documentation below can also be found in eueung's repository here: https://github.com/eueung/hugo-casper-two 
 
 ## Step 1. Install Hugo
 
