@@ -2,7 +2,19 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}" />
 <head>
 
-    {{ partial "google-fonts" . }}   
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR|Roboto&amp;amp;subset=korean" rel="stylesheet"&gt;
+
+    <style>
+    p{
+    font-family: '{{ .Site.Params.fontbody }}', sans-serif;
+    }
+    body {
+    font-family: '{{ .Site.Params.fontbody }}', sans-serif;
+    }
+    code {
+    font-family: '{{ .Site.Params.fontcode }}', sans-serif;
+    }
+ 
     <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
