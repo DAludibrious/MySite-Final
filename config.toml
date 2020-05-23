@@ -1,4 +1,4 @@
-baseurl         = "https://goofy-poincare-6d5a1a.netlify.app/"
+baseurl         = "dustinallen.org"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
