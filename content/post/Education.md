@@ -1,13 +1,10 @@
 ---
 title: "Education"
-date: 2020-05-23T13:21:44-04:00
+date: 2020-05-16T13:21:44-04:00
 draft: false
 Image: "images/new.jpg"
-# categories: [Education]
----
-     
-H2 TEST
 
+---
 
 <!-- # H1
 ## H2
@@ -43,5 +40,5 @@ print(num1 * num2)
 ```  -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/1vq_h4myH1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
- 
+H2 TEST
 
