@@ -6,11 +6,17 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
+
+ google_fonts = [
+    ["Fira Code", "400, 700"],
+    ["Open Sans", "400, 400i, 700, 700i"]
+  ]
+
+  heading_font = "Fira Code"
+  body_font = "Open Sans"
+
   title       = "Dustin Allen"
   subtitle    = ""
-
-  fontbody = 'Noto Sans KR'
-  fontcode = 'Roboto' 
 
   cover       = "images/forest.jpg"
   description = "A site about Dustin Allen"
