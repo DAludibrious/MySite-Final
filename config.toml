@@ -5,22 +5,13 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 
-[params.font]
-    # Some example fonts: Domine, Raleway, "Gentium Basic", Lato
-
-    body = "Lato"
-    heading = "Raleway"
-    blockquote = "Gentium Basic"
-    nav = "Domine"
-    paragraph = "Roboto"
-
 [params]
 
 
-  title       = "Dustin Allen"
-  subtitle    = ""
+  title       = ""
+  subtitle    = "Dustin Allen"
 
-  cover       = "images/forest.jpg"
+  cover       = "images/sand.jpg"
   description = "A site about Dustin Allen"
   metaDescrieption = ""
   googleAnalytics = ""
@@ -44,7 +35,7 @@ paginate        = 6
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle = "caspertwo"
 
 [permalinks]
   post = "/:slug/"
