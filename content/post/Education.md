@@ -5,6 +5,9 @@ draft: false
 Image: "images/new.jpg"
 categories: [Education]
 ---
+     
+H2 TEST
+
 
 <!-- # H1
 ## H2
@@ -40,7 +43,5 @@ print(num1 * num2)
 ```  -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/1vq_h4myH1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-I started my career in technology as a United States Marine. More specifically, my expertise is in telecommunications and information security. After ending active service I completed a Master of Science in Information Technology. At the same time, I worked as a technical support engineer for Honeywell Intelligrated. The technology I worked with was software and hardware designed for voice enabled distribution center automation. I gained valuable experience in enterprise application support and furthered my understanding of wireless devices. 
-
-I am presently an IT Auditor with the University of Pittsburgh Medical Center. This role allows me to evaluate technology accross the organization. I asses and provide recommmendations to senior management on physical, business, and financial controls. My day to day responsibilites include collecting and analyzing data to support internal controls. The software I work with includes vulnerability scanners, various databases, and enterprise applications used for financial transactions. What I like about this position is that each audit is different. I get to work with a new technology and business unit everytime time.  
+ 
 
