@@ -40,10 +40,11 @@ print(num1 * num2)
 ```  -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/1vq_h4myH1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Troy University  
+Education
+
 * B.S in Anthropology
 Southern New Hampshire University 
 * M.S Information Technology 
 La Salle University 
-* MBA Business Systems & Analytics Specialization
+* MBA Business Systems & Analytics Specialization (in progress)
 
