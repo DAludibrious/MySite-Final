@@ -40,8 +40,6 @@ print(num1 * num2)
 ```  -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/1vq_h4myH1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Education
-
 
 * Troy University - B.S in Anthropology
 
