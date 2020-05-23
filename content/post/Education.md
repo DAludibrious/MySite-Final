@@ -42,12 +42,12 @@ print(num1 * num2)
 
 Education
 
-Troy University
-* B.S in Anthropology
 
-Southern New Hampshire University 
-* M.S Information Technology 
+* Troy University - B.S in Anthropology
 
-La Salle University 
-* MBA Business Systems & Analytics Specialization (in progress)
+
+* Southern New Hampshire University - M.S Information Technology 
+
+
+* La Salle University - MBA Business Systems & Analytics Specialization (in progress)
 
