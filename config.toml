@@ -28,7 +28,7 @@ paginate        = 6
 
   author = "Dustin Allen"
   authorAvatar = "images/profile.png"
-  authorLocation = "Pittsburgh, PA"
+  authorLocation = "PA, USA"
   authorWebsite = ""
   authorDescription = "IT Auditor"
 
@@ -56,6 +56,11 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
+
+  [[menu.main]]
   name = "Google"
   url = "https://google.com/"
   weight = 95
