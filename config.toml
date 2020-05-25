@@ -60,7 +60,3 @@ paginate        = 6
   url = "https://google.com/"
   weight = 95
 
-  [[menu.main]]
-  name = "Stoogle"
-  url = "https://google.com/"
-  weight = 95
