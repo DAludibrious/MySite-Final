@@ -8,7 +8,7 @@ paginate        = 6
 [params]
 
 
-  title       = ""
+  title       = "Me"
   subtitle    = "Dustin Allen"
 
   cover       = "images/sand.jpg"
