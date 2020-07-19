@@ -1,5 +1,5 @@
 ---
-title: "NEW"
+title: "New"
 date: 2020-05-16T13:21:44-04:00
 draft: false
 Image: ""
