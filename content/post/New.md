@@ -1,8 +1,8 @@
 ---
 title: "NEW"
-date: 2020-07-18T13:21:44-04:00
+date: 2020-05-16T13:21:44-04:00
 draft: false
-Image: "images/Power.gif"
+Image: ""
 
 ---
 
